@@ -1,0 +1,19 @@
+api_key: TMDB_API_KEY
+base_dir: /media/movies/All
+destination_dir: /media/movies
+categories:
+  genre:
+    directory: Genre
+  decade:
+    directory: Decade
+    suffix: s
+  year:
+    directory: Year
+  director:
+    directory: Director
+  rating:
+    directory: Rating
+
+database: db.sqlite
+db_table: movies
+
