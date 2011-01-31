@@ -6,7 +6,6 @@ categories:
     directory: Genre
   decade:
     directory: Decade
-    suffix: s
   year:
     directory: Year
   director:
@@ -16,4 +15,3 @@ categories:
 
 database: db.sqlite
 db_table: movies
-
