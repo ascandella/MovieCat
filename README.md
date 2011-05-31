@@ -1,5 +1,9 @@
+Deprecation Notice: This project is out of date
+===============================================
+## This project has been merged into [movMonster](http://github.com/sectioneight/movmonster) and should no longer be used
+
 MovieCat - A dumb movie categorizer
-===================================
+-----------------------------------
 
 ## What It Does
 * Scans a directory of files and gathers information from TheMovieDatabase (TMDB)
